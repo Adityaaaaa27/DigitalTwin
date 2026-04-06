@@ -1,0 +1,1 @@
+{\" "IndexDocument\: {\Suffix\: \index.html\}, \RoutingRules\: [{\Condition\: {\HttpErrorCodeReturnedEquals\: \404\}, \Redirect\: {\ReplaceKeyPrefixWith\: \#/\, \HostName\: \digitaltwin-frontend-123.s3-website.ap-south-1.amazonaws.com\}}]}  ; aws s3api put-bucket-website --bucket digitaltwin-frontend-123 --website-configuration file://s3config.json

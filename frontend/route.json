@@ -1,0 +1,1 @@
+﻿{"IndexDocument": {"Suffix": "index.html"}, "RoutingRules": [{"Condition": {"HttpErrorCodeReturnedEquals": "404"}, "Redirect": {"HostName": "digitaltwin-frontend-123.s3-website.ap-south-1.amazonaws.com", "ReplaceKeyPrefixWith": "#/"}}]}
